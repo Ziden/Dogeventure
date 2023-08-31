@@ -28,7 +28,6 @@ public class Main : MonoBehaviour
         _services.Build();
         Preloads();
         _services.Save.LoadGame();
-      
     }
 
     private void SetupUnity()

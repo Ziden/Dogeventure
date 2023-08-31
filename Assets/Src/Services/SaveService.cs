@@ -34,7 +34,7 @@ namespace Src.Services
 		public void LoadGame()
 		{
 			var load = LoadFile("Save") as PlayerData;
-			load = load ?? new PlayerData() { Loadout = new Loadout() { CurrentWeapon = WeaponPrefab.StarterSword }};
+			//load = load ?? new PlayerData() { Loadout = new Loadout() { CurrentWeapon = WeaponPrefab.StarterSword }};
 			OnLoadFinished?.Invoke(load);
 		}
 
