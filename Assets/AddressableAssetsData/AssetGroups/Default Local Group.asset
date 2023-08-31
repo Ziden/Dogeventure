@@ -1,0 +1,1250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 115f4937bb827411895be8c2d38c4709
+  m_SerializeEntries:
+  - m_GUID: ef987df846f34de48a70533f60f92837
+    m_Address: 05 Attach Weapons
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5984f2e48be28947948a3675986e91c
+    m_Address: Sword 01 Brown Gold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77acd730fafca42cbbe8dae560a3800c
+    m_Address: SplashStar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae07f2a45f14a82428409cfe410e6002
+    m_Address: CFXR4 Firework 1 Cyan-Purple (HDR)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e1e9506f5904a64b81744324fb7cd50
+    m_Address: CFXR2 WW Explosion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bda94453d2ca7444a0fff05b2d425f5
+    m_Address: CFXR Explosion Smoke 2 Solo (HDR)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afa54037ffe627545886e2741abb365d
+    m_Address: CFXR4 Firework HDR Shoot Single (Random Color)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99bc28c0d45f51c4fbac01080b73edc7
+    m_Address: CFXR3 Fire Explosion B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ef3ae421f71c5c4e97fe12dc2fc6312
+    m_Address: CFXR Explosion 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90375796f996bff4cabed66da5e558cb
+    m_Address: CFXR2 Cartoon Fight (Loop)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fe8f8b3288e45a44af36ff8aa04486e
+    m_Address: CFXR3 Hit Misc F Smoke
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2c1ac940434a5242b54d72b66654687
+    m_Address: CFXR2 Shiny Item (Loop)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4f829cb7dd4b864caf8832ec5b1ee55
+    m_Address: CFXR Magic Poof
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3801a320e9ae1bf44a14efa194c86c3f
+    m_Address: CFXR3 Ambient Glows
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59a35ab9f68edff40b6e5332bed330f5
+    m_Address: CFXR Flash
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbeeb0ddc21369746aaaae5c5c1c09cf
+    m_Address: CFXR2 Poison Cloud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c2a9b83b809a0848915fabd9596b68b
+    m_Address: CFXR2 Broken Heart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e509867be4f82f246a95eca1ee5a2d61
+    m_Address: CFXR Smoke Source 3D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83036083a4ebcd34f98131bd3cf6f4d2
+    m_Address: CFXR3 Hit Misc A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95b8d3d65b5d7f1409c4ed1723887826
+    m_Address: CFXR4 Sword Trail PLAIN (360 Spiral)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b85d21f3b8fed714bacf0c4fd50fa512
+    m_Address: CFXR4 Sword Hit PLAIN (Cross)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b987d41506d172419fa18578f6ac380
+    m_Address: CFXR4 Sword Trail PLAIN (360 Thin Spiral)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 265d3a5ba69981a4698ceabcedf368b0
+    m_Address: CFXR Hit D 3D (Yellow)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6398d43fe79ea0140913dc5530c646af
+    m_Address: CFXR Impact Glowing HDR (Blue)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87ee7299dd44ed747af24dbb91bcd33b
+    m_Address: CFXR2 Ground Hit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c755f9bc5253ea418e919994537dcc7
+    m_Address: CFXR Hit A (Red)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0a997d987774244a87d3d6f6e43df8
+    m_Address: SimpleShield
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4320cf3e712e4cccb37a9aba569af49
+    m_Address: ActionIndicator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f62d7dd162b64931b758ec8032436ce
+    m_Address: Dialog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 862e347b74e5c45ffb0280cd89672c77
+    m_Address: MainHud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a862414945b24365b07607f41a7519e
+    m_Address: Panel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2028166287ba74d8dbf592e0d9d2b12d
+    m_Address: SkavenzoexyRegular-Wy774
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ceec7516237b4104b94300043ca39784
+    m_Address: HitSplashBrown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1385af346f4e624eb313ec1ea4fcd7e
+    m_Address: CFXR3 Shield Leaves A (Lit)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67608fffc9570ca4d8944023f9b8c9a0
+    m_Address: Leaves_Solo_Pink_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47d0da1ba5336ef4bb50355db2307fe0
+    m_Address: SM_Plant_Bush_Leaves_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef8827edf81d4f34aace1bd2d0c358ff
+    m_Address: SM_Plant_Bush_Leaves_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0fe8f954046e4b4d845f9f33c99548e
+    m_Address: SM_Plant_Bush_Leaves_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a59d3bdb304f4f34b9722850c06fb617
+    m_Address: FX_Leaves_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b09a7fc50f421946b2eda7e5f09e698
+    m_Address: Leaves_Green_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb147685fd85c0642833a173065b34b0
+    m_Address: Leaves_Orange_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42f233d3ffc16b4e8c60406dddf5a74
+    m_Address: Leaves_Solo_Orange_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8be9f01144e2af499b282b2e273a5eb
+    m_Address: SM_Plant_Fern_Leaves_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 579429fe71610c6458c591e53ae6cb43
+    m_Address: SM_Plant_Fern_Leaves_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 731eb2202f8de58428448813aa7f1a75
+    m_Address: SM_Env_GroundLeaves_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a65af0d985ec9a4eb06ab34c09e901a
+    m_Address: SM_Env_GroundLeaves_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47345e15c55c26b45b02acadb66b1944
+    m_Address: SM_Env_GroundLeaves_03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5f379770ddf3470cab5328d5615bb23
+    m_Address: icon_itemicon_sword
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c1d006892dc9432597319d8057b9d3b
+    m_Address: Butterfly
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d24290f967d845358a5920bb8b3d6c0
+    m_Address: equip_leaf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a90642d2da234404db4d59b6713d2e44
+    m_Address: equip_axe_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 763bdf500c5c24f698f8e1839ab00640
+    m_Address: equip_axe_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fdb8d27e30384a6f958cd1d84f40d2f
+    m_Address: equip_axe_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dcafc1838ee0410ab55403502cfa05c
+    m_Address: equip_axe_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2e8d149de37d45769237ec61e75cd34
+    m_Address: equip_axe_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d2f2bcbb5df34f5bb54071e9f8821ec
+    m_Address: equip_bracelet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daa11df1d31094594a022d21ddf853a1
+    m_Address: equip_cyristal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf952c3e0f57246da9cc60ae0e5501ae
+    m_Address: equip_dragon_tooth
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0dd1a56e66754fc4887580637e1e1f2
+    m_Address: equip_eye_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99dff1874a9b944a28871c38c7dc5e84
+    m_Address: equip_fish
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ea71a2337af74f198e6019b8dfea016
+    m_Address: equip_gem_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c5845ce25b0c4731854613ea7dc67c6
+    m_Address: equip_hammer_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79242c436bd064ba6b67f17c6497ef94
+    m_Address: equip_hammer_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d2eb423b929748c4892d9ad33165f3b
+    m_Address: equip_hammer_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c971d6050d3c459581516c54ac55cce
+    m_Address: equip_hammer_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 453d2da821d4541979732bf6bf666460
+    m_Address: equip_hammer_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4a705875607743d7896c2beadcfb775
+    m_Address: equip_hard_tooth
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98e4314da763047b5930d4b8fec462c1
+    m_Address: equip_posion_tooth
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f099b5da1e44e4d986b23eae4db4dd
+    m_Address: equip_potion_blue_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c3c2e21ec807466c86af52596b11ebd
+    m_Address: equip_potion_blue_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5eda4650a73e4f08aa6d7ec6a8151d6
+    m_Address: equip_potion_blue_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17776f97fd7f948ea9eccfd40940c6b4
+    m_Address: equip_potion_blue_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7650a4718db954652a436242cbde2366
+    m_Address: equip_potion_blue_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d8abd26e4b074b7c94e97428959b9fb
+    m_Address: equip_potion_green_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d36b1f82935d46699937086e8cdd690
+    m_Address: equip_potion_green_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bb9e13b297ff48b29a5edc417b9e2e4
+    m_Address: equip_potion_green_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f71562f1ed5a840cd938e92fe1f9f2f3
+    m_Address: equip_potion_green_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dde8316242f0e459c8995ffea0a43f04
+    m_Address: equip_potion_green_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b16cbe6e226bd4dc981f998f1067d7a9
+    m_Address: equip_potion_purple_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42b5c93bd4865411d9f4042818e0650d
+    m_Address: equip_potion_purple_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c32ec22f2da9f4d2eaaebae24bdbaa9f
+    m_Address: equip_potion_purple_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e5950f59643841fda04abb1f4245b0b
+    m_Address: equip_potion_purple_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb94a5a193dc1427fadc70a9be71b3ef
+    m_Address: equip_potion_purple_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b247ef8a899ae4425b46bad4a10a76b8
+    m_Address: equip_potion_red_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6029a8834e8604a3f9feb17851223288
+    m_Address: equip_potion_red_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00d24408568984f129b7023cb677c0cd
+    m_Address: equip_potion_red_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9552474e117b4fa0be24761c7f3c7dc
+    m_Address: equip_potion_red_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a99d085bb9cc4e72972e075606cf4b9
+    m_Address: equip_potion_red_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d614ae22d61457b981ba9abb6212f8
+    m_Address: equip_ring_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af115e57966564c01adfc3db1c776223
+    m_Address: equip_ring_gold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40bac6161648b435ebb91acc7e3b9f95
+    m_Address: equip_shield_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89ed2057ad8c34694b37f215a7f8484c
+    m_Address: equip_shield_wood
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db2cdeff8da65480bb0894c10fb077a6
+    m_Address: equip_stone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c17ecb30cfea446a96f5d18fc830bbc
+    m_Address: equip_tooth_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa34bfe64f7f943b69804cffd9c517f6
+    m_Address: icon_itemicon_anvil
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c23bb5c1541e4415bb82f430a308f7e3
+    m_Address: icon_itemicon_armor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbef0a76fe3974542888e09e324d1836
+    m_Address: icon_itemicon_arrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a222a9e7d571b458092a70ec97a64a03
+    m_Address: icon_itemicon_arrows
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c58f0150acf84f8e8caf45d97be9d1d
+    m_Address: icon_itemicon_ax
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5193186771e11435f8761b7ece8ba3ba
+    m_Address: icon_itemicon_battle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb0d0a12b139e4a4b8645d801aa7b9c6
+    m_Address: icon_itemicon_bomb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9250edf4111a480399f5e39edc635f7
+    m_Address: icon_itemicon_book_magic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31db59f0a66f144f99d4d7d6ef9bbb9f
+    m_Address: icon_itemicon_book_open
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfca08577a857449f9070ba922aa86df
+    m_Address: icon_itemicon_book_skill
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ec77d98b532b4c08b084a361c1175ab
+    m_Address: icon_itemicon_calendar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabcf64420964404ca8abd0a718c4b92
+    m_Address: icon_itemicon_candle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bc20b1c7a9cf4af38e7464961b8429d
+    m_Address: icon_itemicon_castle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01f8256bdd0b749c1837b3e335b01c05
+    m_Address: icon_itemicon_chest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50b0febd67f784e7fb882211a572ce0b
+    m_Address: icon_itemicon_chest_special
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5616c84b14514750bd5bf1954c6a065
+    m_Address: icon_itemicon_coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45cebd9d5a2804d1797191adeb3b2b3c
+    m_Address: icon_itemicon_compass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc5905b14f2043fca6bdb234e72a74c
+    m_Address: icon_itemicon_crown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19ed8061dbac3433c895296474c0007f
+    m_Address: icon_itemicon_dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84356f5da8ae742b09f38e07caa24490
+    m_Address: icon_itemicon_energy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6e135c3e56af4a678b1a8f58ab240e8
+    m_Address: icon_itemicon_energy_purple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d1ec532fcbb47a28aa4ba80bbe98f2
+    m_Address: icon_itemicon_flag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55aac4d93f232464c88cd97596839db9
+    m_Address: icon_itemicon_gemstone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e0ffd1f3165842da9d21e4d92f8d6d3
+    m_Address: icon_itemicon_gift1_Purple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b33962d30094087bfa9af8b0a62712
+    m_Address: icon_itemicon_gift1_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5f65cb6859994225be8e7c17b649e0a
+    m_Address: icon_itemicon_gift2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f40b499ac617470eaf2349bd0a0158d
+    m_Address: icon_itemicon_gold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fb4afa3e0c274a19a0049a58e50b2b5
+    m_Address: icon_itemicon_guild
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e333cc3d9bd4e60b2f418c0a3757a7
+    m_Address: icon_itemicon_guild_flag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3de0a5c20801a44d4a6acea442bc2bd4
+    m_Address: icon_itemicon_hammer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9385f137644d94b41a94f1d3e135b018
+    m_Address: icon_itemicon_hand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6d1118f239904a668126198564cc6a1
+    m_Address: icon_itemicon_helmet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 798678391569249ab82c838b946c24ae
+    m_Address: icon_itemicon_hero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 552ee50297f7b4c04a775dedd5c96aea
+    m_Address: icon_itemicon_hourglass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 076e5467b48574784a83c093bfacc22a
+    m_Address: icon_itemicon_inventory
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaa1fab7e733e454dbacda8cf6fe92b0
+    m_Address: icon_itemicon_jewel1_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ab2534e69bd644c1b88a3bbf9e248a6
+    m_Address: icon_itemicon_jewel1_green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3f68f3902aae4ee4980023ed3086fe5
+    m_Address: icon_itemicon_jewel1_purple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c8a65ec79c2444e68ec52920e8242dc
+    m_Address: icon_itemicon_jewel1_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83b81f11d81bb496092aecc2092770c9
+    m_Address: icon_itemicon_jewel2_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6283e42aeda234c33a78c0dae5a3fe11
+    m_Address: icon_itemicon_jewel2_green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d922d2a82a75048f589b20d15ae0ee95
+    m_Address: icon_itemicon_jewel2_purple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a801e38ca8944cefabbae9b96e97e9d
+    m_Address: icon_itemicon_jewel2_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b6b568ee5936411984359316412b01d
+    m_Address: icon_itemicon_jewel3_blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4a4a3889725445dd8786804a24c10e2
+    m_Address: icon_itemicon_jewel3_green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b68dc7e40c7e49ec84ac88cee279514
+    m_Address: icon_itemicon_jewel3_purple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d72ffa11fc5fc487f96ca11c753a0292
+    m_Address: icon_itemicon_jewel3_red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3db20e2e95394056a1b892f9975abe8
+    m_Address: icon_itemicon_key_bronze
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25b555ad293f1462199cd53d4ff99341
+    m_Address: icon_itemicon_key_gold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f050184976508443d8e7402f607911b8
+    m_Address: icon_itemicon_key_silver
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 538773b6c28a04509bcb78d3a92d7e87
+    m_Address: icon_itemicon_lamp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5487dbe2dfee44bf949e0ade82bcbf5
+    m_Address: icon_itemicon_life
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a544620155de40d185d54c5ed694123
+    m_Address: icon_itemicon_lock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2af0f3b72d83431ba35eaa1cc13556d
+    m_Address: icon_itemicon_lucky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf69688e8a3cb45768c6c3605d58cc40
+    m_Address: icon_itemicon_map
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da6e6cef89ef4485a99bf262e902f2c0
+    m_Address: icon_itemicon_meat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eece76d0f83740c0828e85ec4bea732
+    m_Address: icon_itemicon_medalbronze
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a16758bf2d0547a1a9509266248fa8c
+    m_Address: icon_itemicon_medalgold
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abc866b6fdebf41559d63fac5700ec53
+    m_Address: icon_itemicon_medalsilver
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa1e2e0fbf69d4804a326872558cec08
+    m_Address: icon_itemicon_megaphone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f31315cb6b8064ba6ab140f8615f8951
+    m_Address: icon_itemicon_message
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3a851859767547c6b5d9a9d9d995af7
+    m_Address: icon_itemicon_mission
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79359efb3ddea4387b14bc9ceed88c5e
+    m_Address: icon_itemicon_moneybag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a92c0687f473b4427ba6de7fd7cc9bff
+    m_Address: icon_itemicon_mushroom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e79a89c643e05434fa4099c84af754ac
+    m_Address: icon_itemicon_necklace
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d573fba858eba46919e9e2965a8c6e68
+    m_Address: icon_itemicon_pickax
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf2f25e354f8d41eea4fd4355f065041
+    m_Address: icon_itemicon_piggy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fc94290871e74ad9b05c1549dae1423
+    m_Address: icon_itemicon_potionblue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6da0e0270bfa64ea8bf78dcffb562c9a
+    m_Address: icon_itemicon_potiongreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d6941948494f46b6ab536505c248e91
+    m_Address: icon_itemicon_potionpurple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79b6da8b67c0d4130b619d38ee221bf2
+    m_Address: icon_itemicon_potionred
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 317865ad5cf5f40bfacfb8687e225820
+    m_Address: icon_itemicon_pouch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e024ffb50aa343c38d7fcc5ae17797c
+    m_Address: icon_itemicon_ranking
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a08933ae0c5a418391bfd3337c7e066
+    m_Address: icon_itemicon_ring
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a4ee14ca538b4c74b027f96d16c9c76
+    m_Address: icon_itemicon_rune
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd80c2116be0a4f7bb72bd54a80531ff
+    m_Address: icon_itemicon_scale
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6411bdc3221b43ddb1a9fa885ef30cc
+    m_Address: icon_itemicon_scroll1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 008f6586af382402781fcd8f1669bceb
+    m_Address: icon_itemicon_scroll2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5778ce61d59f047a8a10508bdd29daa4
+    m_Address: icon_itemicon_setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 073a8df13bee946309db2761048c806a
+    m_Address: icon_itemicon_shield
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fbdd0376ab914cc6a1b8835495610c8
+    m_Address: icon_itemicon_shoeswing
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d54ab33461ad468a86a5cfa99949002
+    m_Address: icon_itemicon_shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dde46eb5e29d40d7bfcfe0245d0377e
+    m_Address: icon_itemicon_skull
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 899687626ff3842d99b58510c063abe0
+    m_Address: icon_itemicon_skull_flag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f4e44c701fc24e0aa0b15876fbed4c4
+    m_Address: icon_itemicon_star
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee59484629a8541c09bf5f07a129d247
+    m_Address: icon_itemicon_stopwatch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77e89db99165742f7abf29e1271938c7
+    m_Address: icon_itemicon_ticket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 877c7c718ae454e7f9d6ef0d7c63e59e
+    m_Address: icon_itemicon_trophy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa23e41f956ca49fdbcee7c7d8c84263
+    m_Address: icon_itemicon_tv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60e1c1c509ccc4f4e81629b66897f939
+    m_Address: GotItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e452c5f5021774f8a84b178cb8fb6495
+    m_Address: Shroom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3667ff0f88c414549aa4d5878050a1ea
+    m_Address: CollectibleConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b17b249eceea1461187241f8d4d6d04e
+    m_Address: GameCamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 872540c0831454ffda0104cfb5f3591f
+    m_Address: Slime
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f009cb76c48f45e2b9796dca3902af6
+    m_Address: LittleSmmoke
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16bf5f43c37d5f14d8e0a85102d388bf
+    m_Address: Coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 907c62c3e38121f4c80a0a2b72d1a942
+    m_Address: FX Shine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 587a8686f03f94c7e8f68067028dfed7
+    m_Address: Heart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3af6f68141914ca43ba39b2403757bd0
+    m_Address: CFX2_PickupHeart
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6440d5448c93d41cca6212d013773f53
+    m_Address: HitSplashLeaves
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 398d11256be3c48d7a2df79c8d01d48c
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e797e5c6a7c24473b996ca2597325237
+    m_Address: HitOnlyLeaves
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89b3180d4a796455790a642f408c04ef
+    m_Address: HitOnlyLeaves
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c1357cca0e5c47a185fe048e89530af
+    m_Address: StepGrass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87407df87a43644e8ac7821ec4377505
+    m_Address: scale-g6-89174
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dea356a9f633d4d48bba654239e9eb34
+    m_Address: scale-c7-106132
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8e676bd70f1c41698d3b145f4f7da13
+    m_Address: handy-introduction-022-glbml-21786
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbf8cedffb2f347a8b4c83f9f1c9506a
+    m_Address: scale-d6-106129
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a562b4830fd33493497f340f69e02b9d
+    m_Address: scale-f6-106128
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c51b25230a2d141be867bdc12e58445e
+    m_Address: scale-c6-106131
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7f09385faedc4e08b41fc83682c0b96
+    m_Address: scale-a6-106130
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195419d51e9a74ef99ea0b615f3becf0
+    m_Address: wind-in-trees-117477
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78337fdbd01c9450f9e98dfc55aa8cdc
+    m_Address: howling-wind-14892
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c269cc9c33db343aab9c95ced0fdf3af
+    m_Address: calm-river-ambience-loop-125071
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f60fa5ad6999452f929323f15fc58a4
+    m_Address: atmosphere-dark-3-16803
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f660ab6385da4932b52725a5f82b994
+    m_Address: birds-19624
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 347d13a0a8f4a45dc9e347f0f96a4fea
+    m_Address: mystic-forest-ambient-23812
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 104afa9c28ce14230bfc858e1eb1d1a9
+    m_Address: wind-outside-sound-ambient-141989
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78c46cbaabb744487b7ec637a8a1d342
+    m_Address: StepStone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d4ed50a2a0c1463fb251f06308c1e0c
+    m_Address: Assets/Addressables/Audio/SFX/swish-sound-94707.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaeaba697f2c64f84b55cc3197ba4d58
+    m_Address: Assets/Addressables/Audio/SFX/interface6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1282cc705be3b4981bad8dfe63d3a737
+    m_Address: Assets/Addressables/Audio/SFX/interface4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f795c5baf6fd744328fa2a49ee27012f
+    m_Address: Assets/Addressables/Audio/SFX/damage_taken.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ae217c5777bb4d1b94487cf67647f36
+    m_Address: Assets/Addressables/Audio/SFX/swing2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c31a25b6f1c9d44948e944f07bb2c4bc
+    m_Address: Assets/Addressables/Audio/SFX/swing3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5cadf77dd6d2439a80698d099769997
+    m_Address: Assets/Addressables/Audio/SFX/swing.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef7bdf79af24943ccb14a91f4bf15bbe
+    m_Address: Assets/Addressables/Audio/SFX/interface5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a6775f4623b64b9d97be60e0e246ccb
+    m_Address: Assets/Addressables/Audio/SFX/leaf2.flac
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9283a9484a1c64549a265350e80ced7a
+    m_Address: Assets/Addressables/Audio/SFX/leaf1.flac
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16c1a98f7144e4ff492081e112662121
+    m_Address: Assets/Addressables/Audio/SFX/leaf4.flac
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 405cc24f574da4bd48d3b127514b18b5
+    m_Address: Assets/Addressables/Audio/SFX/leaf3.flac
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8f962b4be5fe4419b783199c3bb26b8
+    m_Address: Assets/Addressables/Audio/SFX/cloth-heavy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e40ed7d8ff224696acdb5d2843781b2
+    m_Address: Assets/Addressables/Audio/SFX/cloth.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb7b0526ade434043b350a180d741cf3
+    m_Address: Assets/Addressables/VFX/HitPow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05bc3154345c14b459bdea38676dfd74
+    m_Address: Assets/Addressables/Audio/SFX/wood-bowl-spoon-01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3587307c987f54736a257309c61df19e
+    m_Address: Assets/Addressables/Audio/SFX/StepStone.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e94e5e5c9df4d698430df01d9ba179
+    m_Address: Assets/Addressables/Audio/SFX/Monster/slime3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b6e892e2fc794f1aaa4361fb0e23938
+    m_Address: Assets/Addressables/Audio/SFX/footstep03.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5ea4a9f279d37740b3ef34f42035098
+    m_Address: Assets/Addressables/Scenes/Book.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f588ccc0e95c149cda3b05b8c36a51d9
+    m_Address: Assets/Addressables/Audio/SFX/low-impactwav-14905.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ccf8222b0f9444b19fd95b58f73356e
+    m_Address: Assets/Addressables/Audio/SFX/explosion-6055.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c12165ecdaf494b9889107b0a14b5389
+    m_Address: Assets/Addressables/Audio/SFX/coinflip-01 1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdf225c5affe247ffb168be08957ced8
+    m_Address: Assets/Addressables/Audio/SFX/down3fast.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32b6e86aa39c646958153eae0bd938d4
+    m_Address: Assets/Addressables/Scenes/Map/InitialCave.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99f6dc291e1fb46b69fd610b3cb34fa2
+    m_Address: Assets/Addressables/Scenes/Map/Map.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05fe0b6d1e2cc48e3929f63bc1688b2b
+    m_Address: Assets/Addressables/UI/Loading.uxml
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba6d252cbcf5f4c33a193255ea2986cc
+    m_Address: Assets/Addressables/Collectibles/SuperHeart.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1105cfbe190a42fd9dde3cb28ad24d3
+    m_Address: Assets/Addressables/VFX/CFXR Prefabs/FX SingleShine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7822a92ba2264bb0bfec42099448552
+    m_Address: Assets/Addressables/Audio/SFX/shine.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0af85668fab5441a7bdddd0deff6b85b
+    m_Address: Assets/Addressables/Audio/SFX/beam.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4beb1840b73f94bd3ad9979b3098d7a7
+    m_Address: Assets/Addressables/Collectibles/DungeonKey1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a33ba739ac17946f4a0404deff4bb890, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e5e4ae86a55494f8bb812abc314364ee, type: 2}
+    - {fileID: 11400000, guid: 6fce55985a14c4ce2b53e75cbb0fc3cc, type: 2}
