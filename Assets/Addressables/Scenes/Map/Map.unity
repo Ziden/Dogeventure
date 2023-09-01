@@ -17411,6 +17411,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chest [Key1]
       objectReference: {fileID: 0}
+    - target: {fileID: 8826985973703769503, guid: 511198219d384134c8311337315ae660, type: 3}
+      propertyPath: UniqueId
+      value: 37568
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4155792109868085583, guid: 511198219d384134c8311337315ae660, type: 3}
     m_RemovedGameObjects: []
@@ -50344,15 +50348,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6515908934344962741, guid: b17b249eceea1461187241f8d4d6d04e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8482589
+      value: 0.84825885
       objectReference: {fileID: 0}
     - target: {fileID: 6515908934344962741, guid: b17b249eceea1461187241f8d4d6d04e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.3513603
+      value: 0.35136035
       objectReference: {fileID: 0}
     - target: {fileID: 6515908934344962741, guid: b17b249eceea1461187241f8d4d6d04e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.15163286
+      value: -0.1516329
       objectReference: {fileID: 0}
     - target: {fileID: 7735444884052019944, guid: b17b249eceea1461187241f8d4d6d04e, type: 3}
       propertyPath: m_Path
