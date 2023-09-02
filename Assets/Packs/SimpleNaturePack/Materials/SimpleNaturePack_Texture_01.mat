@@ -26,11 +26,11 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - TCP2_MOBILE
+  - TCP2_OCCLUSION
   - TCP2_OUTLINE_MIN_SIZE
   - TCP2_RAMP_BANDS_CRISP
   - TCP2_REFLECTIONS_FRESNEL
   - TCP2_RIM_LIGHTING
-  - TCP2_RIM_LIGHTING_LIGHTMASK
   - TCP2_SPECULAR_CRISP
   - TCP2_UV_NORMALS_FULL
   m_InvalidKeywords: []
@@ -316,7 +316,10 @@ Material:
     - _NormalsUVType: 0
     - _OcclusionChannel: 0
     - _OcclusionStrength: 1
+    - _Offset1: 0
+    - _Offset2: 0
     - _OpaqueCullMode: 2
+    - _Outline: 1
     - _OutlineLightingType: 0
     - _OutlineLightingTypeURP: 0
     - _OutlineMinWidth: 1
@@ -341,10 +344,10 @@ Material:
     - _RampType: 3
     - _RayTracing: 0
     - _ReceiveShadows: 1
-    - _ReceiveShadowsOff: 1
-    - _ReceivesSSR: 1
+    - _ReceiveShadowsOff: 0.501
+    - _ReceivesSSR: 3
     - _ReceivesSSRTransparent: 0
-    - _ReflectionMapType: 0
+    - _ReflectionMapType: 1
     - _ReflectionSmoothness: 0.5
     - _RefractionModel: 0
     - _RenderingMode: 0
@@ -360,7 +363,7 @@ Material:
     - _SmoothnessRemapMin: 0
     - _SmoothnessSource: 0
     - _SmoothnessTextureChannel: 0
-    - _SpecSource: 0
+    - _SpecSource: 1
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
@@ -371,7 +374,7 @@ Material:
     - _SpecularToonSmoothness: 0.05
     - _SpecularType: 2
     - _SrcBlend: 1
-    - _SrcBlendAlpha: 1
+    - _SrcBlendAlpha: 0.25
     - _StencilRef: 0
     - _StencilRefDepth: 8
     - _StencilRefDistortionVec: 4
@@ -383,22 +386,22 @@ Material:
     - _StencilWriteMaskGBuffer: 14
     - _StencilWriteMaskMV: 40
     - _Stiffness: 1
-    - _SubsurfaceMask: 1
-    - _SupportDecals: 1
+    - _SubsurfaceMask: 4
+    - _SupportDecals: 14
     - _Surface: 0
-    - _SurfaceType: 0
+    - _SurfaceType: 1
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
-    - _Thickness: 1
-    - _ThicknessMultiplier: 1
-    - _TransmissionEnable: 1
+    - _Thickness: 0
+    - _ThicknessMultiplier: 0
+    - _TransmissionEnable: 5
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
-    - _TransparentDepthPrepassEnable: 0
-    - _TransparentSortPriority: 0
+    - _TransparentDepthPrepassEnable: 1
+    - _TransparentSortPriority: 1
     - _TransparentWritingMotionVec: 0
-    - _TransparentZWrite: 0
+    - _TransparentZWrite: 2
     - _UVBase: 0
     - _UVDetail: 0
     - _UVEmissive: 0
@@ -411,19 +414,19 @@ Material:
     - _UseMatCapMask: 0
     - _UseMobileMode: 1
     - _UseNormalMap: 0
-    - _UseOcclusion: 0
+    - _UseOcclusion: 1
     - _UseOutline: 1
     - _UseReflections: 0
     - _UseRim: 1
-    - _UseRimLightMask: 1
+    - _UseRimLightMask: 0
     - _UseShadowTexture: 0
-    - _UseShadowThreshold: 0
+    - _UseShadowThreshold: 1
     - _UseSpecular: 0
     - _WorkflowMode: 1
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
-    - _ZTestModeDistortion: 4
-    - _ZTestTransparent: 4
+    - _ZTestModeDistortion: 0
+    - _ZTestTransparent: 0
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
