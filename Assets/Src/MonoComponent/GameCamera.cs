@@ -68,8 +68,8 @@ public class GameCamera : MonoBehaviour
     {
         _cart.gameObject.SetActive(false);
         if(_currentTrack != null)  _currentTrack.gameObject.SetActive(false);
-        _currentCamera.gameObject.SetActive(false);
         FollowPlayerCamera.gameObject.SetActive(true);
+        _currentCamera.gameObject.SetActive(false);
     }
 
 }

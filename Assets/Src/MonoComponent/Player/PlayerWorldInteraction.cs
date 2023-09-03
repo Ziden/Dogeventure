@@ -1,7 +1,6 @@
 using System;
 using DG.Tweening;
 using GameAddressables;
-using Src.Data;
 using UnityEngine;
 
 namespace Src.Services
@@ -63,7 +62,6 @@ namespace Src.Services
 		private void OnRemoveTriggers()
 		{
 			GLog.Debug("[World Interaction] Removing triggers for " + _targetInteractible?.name);
-			//Map.Current.OnSetTargetInteractible?.Invoke(null);
 			Main.Services.Map.UnseeInteractible(_targetInteractible);
 			Destroy(_targetInteractible);
 			_targetInteractible = null;
@@ -81,14 +79,12 @@ namespace Src.Services
 					GLog.Debug("[World Interaction] Removing target "+_targetInteractible.name);
 				}
 				OnUntargetInteractible(player, _targetInteractible);
-				//OnSetTargetInteractible?.Invoke( null);
 			}
 			_targetInteractible = i;
 			if (i != null)
 			{
 				GLog.Debug("[World Interaction] Setting target "+_targetInteractible.name);
 				OnTargetInteractible(player, _targetInteractible);
-				//OnSetTargetInteractible?.Invoke(_targetInteractible);
 				_targetInteractible.OnRemoveTrigger += OnRemoveTriggers;
 			}
 		}

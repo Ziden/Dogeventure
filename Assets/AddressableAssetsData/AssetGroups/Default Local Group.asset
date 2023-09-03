@@ -27,11 +27,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 77acd730fafca42cbbe8dae560a3800c
-    m_Address: SplashStar
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ae07f2a45f14a82428409cfe410e6002
     m_Address: CFXR4 Firework 1 Cyan-Purple (HDR)
     m_ReadOnly: 0

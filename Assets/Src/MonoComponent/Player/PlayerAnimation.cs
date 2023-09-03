@@ -13,7 +13,7 @@ using Random = UnityEngine.Random;
 public enum CharacterAnimation
 {
     idle, attack, attack2, run, runweapon, hit, getweapon, putweapon,
-    raisehands, openchest, landing
+    raisehands, openchest, landing, lift
 }
 
 public enum FaceExpression

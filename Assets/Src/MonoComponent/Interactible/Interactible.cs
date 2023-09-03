@@ -3,6 +3,8 @@ using System.Collections;
 using Src;
 using Src.Data;
 using Src.Services;
+using Unity.VisualScripting;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 
 
@@ -23,9 +25,9 @@ public class Interactible : MonoBehaviour
 	{
 		_visibility = GetComponent<VisibilityListener>();
 		if (_visibility == null) _visibility = GetComponentInChildren<VisibilityListener>();
-		if (_visibility == null) throw new Exception("All interactibles needs a visibility listener on their renderer");
-		
-		Map.Current.OnPlayerInitialized += OnPlayerInitialized;
+		if (_visibility == null) _visibility = this.AddComponent<VisibilityListener>();
+
+        Map.Current.OnPlayerInitialized += OnPlayerInitialized;
 	}
 
 	public void Interact()
