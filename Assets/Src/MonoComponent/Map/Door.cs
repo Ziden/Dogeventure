@@ -1,5 +1,6 @@
 using CartoonFX;
 using DG.Tweening;
+using GameAddressables;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,7 @@ public class Door : MonoBehaviour
 {
     public event Action OnOpened;
 
+    public AssetSoundEffect OpenSound = AssetSoundEffect.Cloth_heavy;
     public ParticleSystem[] OpeningEffects;  
     public GameObject[] DoorParts;
     public Vector3[] OpenOffsets;
@@ -55,6 +57,7 @@ public class Door : MonoBehaviour
 
     private void OnBeginOpening()
     {
+        Main.Services.Audio.PlaySoundEffect(OpenSound);
         foreach (var o in OpeningEffects)
         {
             o.time = 0;

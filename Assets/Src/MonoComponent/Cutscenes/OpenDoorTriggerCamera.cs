@@ -26,7 +26,7 @@ public class OpenDoorTriggerCamera : GameBehaviour
 		Services.Map.GameFrozen = true;
 		p.Animation.Play(CharacterAnimation.idle);
 		Services.Camera.SwapCamera(DoorCamera, 0f);
-		p.transform.LookAt(Door.transform.position);
+		p.Graphic.LookAt(Door.transform.position);
 		await UniTask.Delay(1000);
 		Door.Duration = 5;
 		Door.Open();

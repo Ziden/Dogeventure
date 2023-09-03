@@ -17,7 +17,12 @@ public class Intro : MonoBehaviour
 
     void Start()
     {
-        Map.OnMapInitialized += () => _ = StartNextFrame();
+        Map.OnMapInitialized += StartCutscene;
+    }
+
+    private void StartCutscene()
+    { 
+        _ = StartNextFrame();
     }
 
     private async UniTask StartNextFrame()
@@ -37,6 +42,11 @@ public class Intro : MonoBehaviour
         await Main.Services.Assets.GetAudioClipAsync(AssetSoundEffect.Beam);
         await Main.Services.Assets.GetAudioClipAsync(AssetSoundEffect.Shine);
         await Main.Services.Assets.GetAudioClipAsync(AssetSoundEffect.Low_impactwav_14905);
+    }
+
+    private void OnDestroy()
+    {
+        Map.OnMapInitialized -= StartCutscene;
     }
 
     private async UniTask PlaySequence()

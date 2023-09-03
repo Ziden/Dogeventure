@@ -1,5 +1,7 @@
+using GameAddressables;
 using System;
 using UnityEngine;
+
 
 [Serializable]
 public class SerializableVector3

@@ -1237,6 +1237,16 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a552d424deb424daeea6b06c4576a8
+    m_Address: Assets/Addressables/Scenes/Dungeons/Lvl1_Ziden.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ffb00849ae9d1548bac8ca72833831a
+    m_Address: Assets/Addressables/Audio/SFX/rockfall.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a33ba739ac17946f4a0404deff4bb890, type: 2}
   m_SchemaSet:
