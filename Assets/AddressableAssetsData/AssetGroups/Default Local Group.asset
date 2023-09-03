@@ -1237,6 +1237,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9352e6ec38320ee41b205a524c4c590e
+    m_Address: Assets/Addressables/Scenes/Map/CarlosTest.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a33ba739ac17946f4a0404deff4bb890, type: 2}
   m_SchemaSet:

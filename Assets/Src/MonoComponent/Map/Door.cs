@@ -3,6 +3,7 @@ using DG.Tweening;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Src.MonoComponent;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
@@ -17,7 +18,7 @@ public enum AnimationType
 }
 
 
-public class Door : MonoBehaviour
+public class Door : MonoBehaviour, ISignalActionable
 {
     public event Action OnOpened;
 
@@ -85,5 +86,15 @@ public class Door : MonoBehaviour
         }
         _state = DoorState.Open;
         OnOpened?.Invoke();
+    }
+
+    public void OnAction()
+    {
+        this.Open();
+    }
+
+    public void OnSignal()
+    {
+        Open();
     }
 }

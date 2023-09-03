@@ -58,6 +58,7 @@ namespace GameAddressables
 		CollectibleConfig = 54,
 		Coin = 17,
 		SuperHeart = 243,
+		DungeonKey1 = 246,
 	}
 
 
@@ -75,7 +76,6 @@ namespace GameAddressables
 
 	public enum VfxPrefab
 	{
-		VfxStars = 20,
 		CfxR4Firework1Cyan_Purple_Hdr = 21,
 		CfxR2WwExplosion = 22,
 		CfxrExplosionSmoke2Solo_Hdr = 23,
@@ -90,7 +90,7 @@ namespace GameAddressables
 		CfxrFlash = 32,
 		CfxR2PoisonCloud = 33,
 		CfxR2BrokenHeart = 34,
-		CfxrSmokeSource3D = 35,
+		SmokeSource = 35,
 		CfxR3HitMiscA = 36,
 		CfxR4SwordTrailPlaiN_360Spiral = 37,
 		CfxR4SwordHitPlaiN_Cross = 38,
@@ -272,6 +272,7 @@ namespace GameAddressables
 		Book = 234,
 		InitialCave = 239,
 		Map = 240,
+		CarlosTest = 247,
 	}
 
 
@@ -377,9 +378,9 @@ namespace GameAddressables
 			{ 54, "CollectibleConfig"},
 			{ 17, "Coin"},
 			{ 243, "Assets/Addressables/Collectibles/SuperHeart.prefab"},
+			{ 246, "Assets/Addressables/Collectibles/DungeonKey1.prefab"},
 			{ 18, "Sword 01 Brown Gold"},
 			{ 19, "SimpleShield"},
-			{ 20, "SplashStar"},
 			{ 21, "CFXR4 Firework 1 Cyan-Purple (HDR)"},
 			{ 22, "CFXR2 WW Explosion"},
 			{ 23, "CFXR Explosion Smoke 2 Solo (HDR)"},
@@ -554,6 +555,7 @@ namespace GameAddressables
 			{ 234, "Assets/Addressables/Scenes/Book.unity"},
 			{ 239, "Assets/Addressables/Scenes/Map/InitialCave.unity"},
 			{ 240, "Assets/Addressables/Scenes/Map/Map.unity"},
+			{ 247, "Assets/Addressables/Scenes/Map/CarlosTest.unity"},
 			{ 194, "Dialog"},
 			{ 195, "MainHud"},
 			{ 196, "GotItem"},
