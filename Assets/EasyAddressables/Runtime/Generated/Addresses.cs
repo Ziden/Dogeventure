@@ -273,7 +273,7 @@ namespace GameAddressables
 		Book = 234,
 		InitialCave = 239,
 		Map = 240,
-		Lvl1_Ziden = 247,
+		Lvl1_Ziden = 249,
 	}
 
 
@@ -557,7 +557,7 @@ namespace GameAddressables
 			{ 234, "Assets/Addressables/Scenes/Book.unity"},
 			{ 239, "Assets/Addressables/Scenes/Map/InitialCave.unity"},
 			{ 240, "Assets/Addressables/Scenes/Map/Map.unity"},
-			{ 247, "Assets/Addressables/Scenes/Dungeons/Lvl1_Ziden.unity"},
+			{ 249, "Assets/Addressables/Scenes/Dungeons/Lvl1_Ziden.unity"},
 			{ 194, "Dialog"},
 			{ 195, "MainHud"},
 			{ 196, "GotItem"},
