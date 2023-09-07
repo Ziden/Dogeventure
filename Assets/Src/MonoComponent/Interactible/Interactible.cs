@@ -1,10 +1,7 @@
-using System;
-using System.Collections;
 using Src;
-using Src.Data;
 using Src.Services;
+using System;
 using Unity.VisualScripting;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 
 

@@ -274,6 +274,7 @@ namespace GameAddressables
 		InitialCave = 239,
 		Map = 240,
 		Lvl1_Ziden = 249,
+		CarlosTest = 250,
 	}
 
 
@@ -558,6 +559,7 @@ namespace GameAddressables
 			{ 239, "Assets/Addressables/Scenes/Map/InitialCave.unity"},
 			{ 240, "Assets/Addressables/Scenes/Map/Map.unity"},
 			{ 249, "Assets/Addressables/Scenes/Dungeons/Lvl1_Ziden.unity"},
+			{ 250, "Assets/Addressables/Scenes/Map/CarlosTest.unity"},
 			{ 194, "Dialog"},
 			{ 195, "MainHud"},
 			{ 196, "GotItem"},
