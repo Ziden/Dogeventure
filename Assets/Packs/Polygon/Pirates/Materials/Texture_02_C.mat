@@ -21,11 +21,12 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Texture_02_C
-  m_Shader: {fileID: 4800000, guid: dd496457a855aa341b0d7b7b475a7a3a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3e3093d2c3fb57f4483a13f48685e76c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - TCP2_DISABLE_WRAPPED_LIGHT
+  - TCP2_SPEC_TOON
   - TCP2_ZSMOOTH_ON
   m_InvalidKeywords:
   - OUTLINES
@@ -181,9 +182,11 @@ Material:
     - _RenderingMode: 0
     - _RimMax: 1
     - _RimMin: 0.69
+    - _Shininess: 1.01
     - _SingleIndirectColor: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
+    - _SpecSmooth: 1
     - _SpecularHighlights: 1
     - _SpecularMapType: 0
     - _SpecularRoughness: 0.5

@@ -229,7 +229,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _HColor: {r: 1, g: 1, b: 1, a: 1}
     - _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
-    - _OutlineColor: {r: 0.31132078, g: 0.3030556, b: 0.2804824, a: 1}
+    - _OutlineColor: {r: 0.16037738, g: 0.13725019, b: 0.07943219, a: 1}
     - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 0.26390156, g: 0.26390156, b: 0.26390156, a: 0.5}
     - _SColor: {r: 0.41509432, g: 0.41509432, b: 0.41509432, a: 1}

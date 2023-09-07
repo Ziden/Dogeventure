@@ -21,12 +21,13 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Dungeon_Material_01
-  m_Shader: {fileID: 4800000, guid: dd496457a855aa341b0d7b7b475a7a3a, type: 3}
+  m_Shader: {fileID: 4800000, guid: 3e3093d2c3fb57f4483a13f48685e76c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - TCP2_DISABLE_WRAPPED_LIGHT
   - TCP2_RAMPTEXT
+  - TCP2_SPEC_TOON
   - TCP2_ZSMOOTH_ON
   m_InvalidKeywords:
   - OUTLINES
@@ -189,12 +190,12 @@ Material:
     - _RenderingMode: 0
     - _RimMax: 1
     - _RimMin: 0.5
-    - _Shininess: 0.47
+    - _Shininess: 1.69
     - _SingleIndirectColor: 0
     - _Smoothness: 0.5
     - _SmoothnessSource: 0
     - _SmoothnessTextureChannel: 0
-    - _SpecSmooth: 0.05
+    - _SpecSmooth: 0.895
     - _SpecSource: 0
     - _SpecularHighlights: 1
     - _SpecularMapType: 0
@@ -235,6 +236,6 @@ Material:
     - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.5}
     - _SColor: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
-    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _SpecColor: {r: 0.1792453, g: 0.13443397, b: 0.13443397, a: 0.5}
     - _SpecularColor: {r: 0.11541979, g: 0.11541979, b: 0.11541979, a: 1}
   m_BuildTextureStacks: []

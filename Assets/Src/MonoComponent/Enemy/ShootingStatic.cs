@@ -1,12 +1,15 @@
 using System;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.ProBuilder;
 
 public class ShootingStatic : MonoBehaviour
 {
-    public Projectile Projectile;
+    public GameObject Projectile;
     public float SecondsDelay;
     public float InitialDelay;
+    public float Speed;
 
     private List<Projectile> _pooled = new List<Projectile>();
     private DateTime _nextShotAt;
@@ -19,9 +22,11 @@ public class ShootingStatic : MonoBehaviour
     void Update()
     {
         if (DateTime.UtcNow < _nextShotAt) return;
-        var projectile = Instantiate(Projectile);
-        projectile.Shoot(transform.forward);
-        projectile.OnHitAnything = () => Pool(projectile);
+        var projectile = GetProjectile();
+        projectile.transform.position = transform.position;
+        projectile.gameObject.SetActive(true);
+        projectile.Shoot(transform.forward, Speed);
+        _nextShotAt = DateTime.UtcNow + TimeSpan.FromSeconds(SecondsDelay);
     }
 
     private void Pool(Projectile p)
@@ -30,7 +35,7 @@ public class ShootingStatic : MonoBehaviour
         p.gameObject.SetActive(false);
     }
 
-    private Projectile Get()
+    private Projectile GetProjectile()
     {
         if(_pooled.Count > 0)
         {
@@ -38,6 +43,9 @@ public class ShootingStatic : MonoBehaviour
             _pooled.RemoveAt(0);
             return p;
         }
-        return Instantiate(Projectile);
+        var o = Instantiate(Projectile);
+        var projectile = o.GetOrAddComponent<Projectile>();
+        projectile.OnHitAnything = () => Pool(projectile);
+        return projectile;
     }
 }
